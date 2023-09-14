@@ -1,14 +1,16 @@
-# run-buddy2
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://erickenji.github.io/run-buddy2/
+https://erickenji.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Eric
+
+### ©️2023 Run Buddy, Inc 
